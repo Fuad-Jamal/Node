@@ -1,0 +1,6 @@
+console.log(process.argv)
+// console.log(process.env)
+// console.log()
+// console.log(process.title)
+// console.log(process.cwd)
+// console.log(process.uptimen)
